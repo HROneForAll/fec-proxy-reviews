@@ -1,13 +1,20 @@
 # Project Name
 
-> Project description
+> This is a module for reviews section of an Airbnb item page clone project. 
 
 ## Related Projects
 
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
+  - https://github.com/HROneForAll/fec-photo-gallery-service
+  - https://github.com/HROneForAll/fec-photo-gallery-proxy-server
+  - https://github.com/HROneForAll/fec-service-info
+  - https://github.com/HROneForAll/fec-proxy-info
+  - https://github.com/HROneForAll/fec-service-reviews
+  - https://github.com/HROneForAll/fec-proxy-reviews
+  - https://github.com/HROneForAll/fec-proxy-suggestions
+  - https://github.com/HROneForAll/fec-service-suggestions
+  - https://github.com/HROneForAll/fec-proxy-availability
+  - https://github.com/HROneForAll/fec-service-availability
+
 
 ## Table of Contents
 
